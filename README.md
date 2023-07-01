@@ -5,11 +5,11 @@ A nodeJS project with Curd functionality and uses mongodb for storing data.
 
 Two models/dataSchemas with two controllers to each.
 ```userModel/userController```
--**userModel** to create the respective fields,
--**userController** to create functionality methods.
+- **userModel** to create the respective fields,
+- **userController** to create functionality methods.
 ```contactModel/contactController ```
--**contactModel** to create the respective fields,
--**contactController** to create functionality methods.
+- **contactModel** to create the respective fields,
+- **contactController** to create functionality methods.
 
 Routing to add controller methods to both of our controller to the respective routes
 **userRoutes** list
