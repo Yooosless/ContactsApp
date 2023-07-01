@@ -13,9 +13,9 @@ Two models/dataSchemas with two controllers to each.
 
 Routing to add controller methods to both of our controller to the respective routes
 * **userRoutes** list
-  - register user-   `#0969DA`	POST http://localhost:8080/user/register
-  - login user- POST http://localhost:8080/user/login
-  - current user- GET http://localhost:8080/user/current
+  - register user-   >	POST http://localhost:8080/user/register
+  - login user- > POST http://localhost:8080/user/login
+  - current user- > GET http://localhost:8080/user/current
 
 * **contactRoutes** list
   - get contacts- GET http://localhost:8080/contacts
