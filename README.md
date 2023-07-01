@@ -1,7 +1,5 @@
 # ContactsApp
-##A Curd Application with Authentication for every curd entry point
-
-A nodeJS project with Curd functionality and uses mongodb for storing data.
+## A Curd Application with Authentication for every curd entry point,A nodeJS project with Curd functionality and uses mongodb for storing data.
 
 Two models/dataSchemas with two controllers to each.
 * ```userModel/userController```
